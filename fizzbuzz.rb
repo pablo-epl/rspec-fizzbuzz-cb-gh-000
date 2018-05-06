@@ -7,4 +7,5 @@ def fizzbuzz(user_input)
     return "FizzBuzz"
   else
     return nil
+  end
 end
